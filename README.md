@@ -81,10 +81,6 @@ Echo is a comprehensive web application that combines blogging, note-taking, and
    npm run dev
    ```
 
-5. **Open your browser**
-   - Frontend: http://localhost:5173
-   - Backend: http://localhost:3001
-
 That's it! You're ready to use Echo.
 
 ## Project Structure
